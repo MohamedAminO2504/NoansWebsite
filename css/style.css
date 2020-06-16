@@ -1,0 +1,128 @@
+
+
+[class*="-item"] .links-wrap a:before {
+    font-family: 'FontAwesome',serif;
+    content: "";
+}
+
+.media-links div {
+    top: 30%;
+}
+
+.page_footer.parallax {
+    background-image: url(../img/parallax/events.jpg);
+}
+
+.page_copyright.parallax {
+    background-image: url(../img/parallax/about.jpg);
+}
+
+#avis.parallax {
+    background-image: url(../images/fond.jpg);
+}
+
+#partenaire.parallax {
+    background-image: url(../img/parallax/events.jpg);
+}
+
+#videos.parallax {
+    background-image: url(../img/parallax/videos.jpg);
+}
+
+.header_transparent.affix.header_darkgrey {
+    background-color: #2d1709;
+}
+
+.ds .highlight,
+.ds .highlight1 {
+    color: #e6b676;
+    border-color: #2d1709;
+}
+
+.vertical-item.content-absolute .item-content.cs {
+    background-color: #2d1709;
+}
+
+.cs h1 a:hover,
+.cs h2 a:hover,
+.cs h3 a:hover,
+.cs h4 a:hover,
+.cs h5 a:hover,
+.cs h6 a:hover {
+    color: #e6b676;
+}
+
+.cs .theme_buttons.color2 a,
+.cs .theme_button.color2 {
+    background-color: #036533;
+}
+
+.ds h1 a:hover,
+.ds h2 a:hover,
+.ds h3 a:hover,
+.ds h4 a:hover,
+.ds h5 a:hover,
+.ds h6 a:hover {
+    color: #e6b676;
+}
+
+.background_cover.ds:after {
+    background-color: #222222;
+    opacity: 0.7;
+}
+
+.parallax.ds:after {
+    background-color: #222222;
+    opacity: 0.7;
+}
+
+.parallax.ds.ms:after {
+    background-color: #0a0600;
+    opacity: 0.8;
+}
+
+.cs .theme_buttons.color2 a:hover,
+.cs .theme_buttons.color2 a:focus,
+.cs .theme_buttons.color2 a:active,
+.cs .theme_button.color2:hover,
+.cs .theme_button.color2:focus,
+.cs .theme_button.color2:active {
+    color: white;
+}
+
+.sf-menu>li.active a,
+.sf-menu>li:hover a,
+#toTop:hover:after {
+    color: #e6b676;
+}
+
+.ds .theme_buttons.inverse a,
+.ds .theme_button.inverse {
+    color: white;
+    background-color: #e6b676;
+}
+
+.theme_button.inverse:hover {
+    color: #2d1709;
+    background-color: #e6b676;
+}
+
+.ds .panel-heading .panel-title>a.collapsed {
+    background-color: #1b0d04;
+    color: #818181;
+}
+
+.ds .panel-heading .panel-title>a {
+    background-color: #2d1709;
+    color: #818181;
+}
+
+.ds .panel-heading .panel-title>a,
+.ds .panel-heading .panel-title>a:hover {
+    background-color: #2d1709;
+    color: #ffffff;
+}
+
+.ds a:hover {
+    color: #ffffff;
+}

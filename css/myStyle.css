@@ -1,0 +1,121 @@
+@media (min-width: 1200px){
+.intro_section h2 {
+    font-size: 175px;
+}
+}
+
+
+.intro_section .flexslider .intro-layer  .imgLogo{
+position: absolute;
+    top: 79px;
+    width: 125px;
+    left: 199px;
+    transform: rotate(18deg);
+}
+
+#galerie{
+    background-image: url(../img/parallax/events.jpg);
+}
+
+@font-face {
+    font-family: "bleeding_cowboys";
+    src: url("font/bleeding_cowboys/Bleeding_Cowboys.ttf");
+}
+
+@font-face {
+font-family: "ifc_los_banditos";
+src: url("font/ifc_los_banditos/IFC\ LOS\ BANDITOS.ttf") format("ttf"),
+}
+
+@font-face {
+font-family: "nashville";
+src: url("font/nashville/NASHVILL.TTF") format("TTF"),
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+ 
+    cursor: url("../images/chapeau.png"), pointer;
+
+}
+
+
+.intro_section h2 .small {
+    display: block;
+    font-size: 0.4em;
+    position: relative;
+    top: -50px;
+    left: 15px;
+    font-family: 'Lato', sans-serif;
+}
+
+.intro_section .slide_description_wrapper:before {
+
+    height: 70%;
+}
+
+@media (min-width: 768px){
+.intro_section .slide_description {
+    font-size: 20px;
+    position: relative;
+    left: 127px;
+    top: -25px;
+
+
+}
+.intro_section .slide_description h2 {
+color: #e6b676;
+font-family: 'bleeding_cowboys';
+
+}
+
+}
+
+@media (min-width: 1600px){
+.logo img {
+    max-width: 150px;
+    padding: 10px;
+}
+}
+
+
+@media (max-width: 991px){
+.intro_section .nav-container {
+    padding: 0;
+    display: none;
+}
+}
+
+.ds .theme_buttons a, .ds .theme_button.colorBlue:hover{
+    background-color: #e6b676;
+    color: black;
+}
+
+
+
+a[class*='socicon-']:before {
+    font-size: 20px;
+}
+
+.ds .muted_background, .ds .with_background, .ds .well {
+    background-color: #2d1709e3;
+}
+
+
+
+
+@media (max-width: 991px){
+.sf-menu {
+        background-color: #2d1709e3;
+  
+}
+.header_darkgrey {
+    background-color: #2d1709e3;
+}
+
+
+.toggle_menu.mobile-active {
+    background-color: transparent;
+}
+}
+
